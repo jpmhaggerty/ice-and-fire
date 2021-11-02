@@ -71,8 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 <!-- User Stories
 
-1. As a user, I want to see the webpage's title as well as all of the website's tools (Homepage link, Houses, Characters, and a Character Search Bar) when I go to the homepage, so that I can access any of them from the navigation bar.
-2. As Houses
+1. As a user, I want to see the webpage's title as well as all of the website's tools (Homepage link, Houses, Characters, and a Search Bar) when I go to the homepage, so that I can access any of them from the navigation bar.
+2. As a user, I want to be able to search for Houses's information using either a search bar, a list, or an interactive mpa, so that when I select a house or search for one, I'm taken to the house's page with it's pertinent data.
 3. As a user, I want to be able to search for Characters' information using either a search bar or a list, so that when hit enter or click on them I am provided with the character's pertinent information.
 
 A. As a user upon entering the site, I'd like to see navigation bar at the top of the page with 'home','characters',and 'houses' buttons, the site title, and a character 'search'bar.
